@@ -8,7 +8,6 @@ import java.util.stream.Collectors;
 public class Main{
     public static void main(String[] args) {
         int $pValue=10;
-//        System.out.println($pValue);
 //        List<String> names= Arrays.asList("Alok","Rohan","Suraj","Arpit");
 //        List<List<String>> students=Arrays.asList(
 //                Arrays.asList("Komal", "Payal", " Tarak","karthik"),
